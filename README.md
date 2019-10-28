@@ -2,9 +2,16 @@
 enchantments that give you potion effects. 
 
 # Enchantments
-Helmet - Night Vision
-Chestplate - Strength 1, Strength 2
-Leggings - Fire Resistance
-Boots - Speed 2 Speed 2, Jump Boost
+ - Helmet
+   - Night Vision
+ - Chestplate
+   - Strength 1
+   - Strength 2
+ - Leggings
+   - Fire Resistance
+ - Boots
+   - Speed 1 
+   - Speed 2 
+   - Jump Boost
 
 # Project is incomplete!
